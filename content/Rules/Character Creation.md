@@ -1,7 +1,7 @@
 
 #### Stat Points:
 
-There are four groups of stats, under four headings: **[[#^f1e422|Dexterity]]**, **[[#^f1e422|Constitution]]**, [[#^f1e422|Intelligence]]**, and **[[#^f1e422|Force Sensitivity]]**. These headings have ratings and count as stats on their own. Under each heading are three related sub-stats. When creating a character, you get four numbers to assign to the four major stat groups:
+There are four groups of stats, under four headings: **[[#^f1e422|Dexterity]]**, **[[#^f1e422|Constitution]]**, **[[#^f1e422|Intelligence]]**, and **[[#^f1e422|Force Sensitivity]]**. These headings have ratings and count as stats on their own. Under each heading are three related sub-stats. When creating a character, you get four numbers to assign to the four major stat groups:
 
 **33, 27, 21, and 15**
 
