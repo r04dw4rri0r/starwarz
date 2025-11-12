@@ -1,7 +1,7 @@
 
 #### Stat Points:
 
-There are four groups of stats, under four headings: **Dexterity**, **Constitution**, **Intelligence**, and **Force Sensitivity**. These headings have ratings and count as stats on their own. Under each heading are three related sub-stats. When creating a character, you get four numbers to assign to the four major stat groups:
+There are four groups of stats, under four headings: **[[#^f1e422|Dexterity]]**, **[[#^f1e422|Constitution]]**, ****[[#^f1e422|Intelligence]]**, and ****[[#^f1e422|Force Sensitivity]]**. These headings have ratings and count as stats on their own. Under each heading are three related sub-stats. When creating a character, you get four numbers to assign to the four major stat groups:
 
 **33, 27, 21, and 15**
 
@@ -21,101 +21,78 @@ Each character starts with 1 free contact. Additional contacts may be acquired t
 
 #### Stats:
 
-| Stat Abbr. | Stat Name     | Description                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Dex        | Dexterity     | Used for dodging, feats of acrobatics, and general quickness.                                                                                                                                                                                                                                                                                                                              |
-| Bls        | Blaster       | Skill with a gun or a ship-mounted turret. Automatic skill of Blaster at 15 or greater.                                                                                                                                                                                                                                                                                                    |
-| Mel        | Melee         | Skill with any type of physical weapon. Automatic skill of Melee type at 15 or greater.                                                                                                                                                                                                                                                                                                    |
-| Pil        | Piloting      | Used for determining flying or driving ability. Automatic skill of Piloting at 15 or greater.                                                                                                                                                                                                                                                                                              |
-| Con        | Constitution  | Poison and pain resistance, internal fortitude, and health.                                                                                                                                                                                                                                                                                                                                |
-| Str        | Strength      | 16 = +1 melee damage<br>17 = +2 melee damage<br>18 = +3 melee damage<br>19 = +4 melee damage                                                                                                                                                                                                                                                                                               |
-| Frt        | Fortitude     | HP, KO resistance, and stamina.                                                                                                                                                                                                                                                                                                                                                            |
-| Sen        | Senses        | Used for determining if you heard that thermal detonator drop on the hangar bay floor.                                                                                                                                                                                                                                                                                                     |
-| Int        | Intelligence  | Quick and correct thinking ability. For every 2 points above 10 you get one additional language skill.                                                                                                                                                                                                                                                                                     |
-| Slc        | Slicing       | Used for hacking, decoding, programming, and other forms of advanced computer usage. Automatic slicing-related skill (see Skills sheet for a list) at 15 or greater.                                                                                                                                                                                                                       |
-| Tec        | Tech          | Knowledge and ability to use and repair the many high tech devices of the galaxy. Automatic skill (Repair or other specialized tech-related skill of your choice) at 15 or greater.                                                                                                                                                                                                        |
-| Chr        | Charisma      | Determines your ability to lie, negotiate, and how well you speak other languages. Automatic charisma-related skill of your choice at 15 or greater.                                                                                                                                                                                                                                       |
-| FoS        | Force Sense   | Determines you awareness of undulations, pulls and disturbances in the Force.<br>0 - 10 = You have almost no perception of it, even if you were trained.<br>11 - 13 = You are occasionally more intuitive in it than others.<br>14 = You can feel large tremors in the Force.<br>15 - 18 = You are sensitive to the ebb and flow of the Force. Jedi Knights and Masters are of this level. |
-| FoA        | Force Ability | Your capacity to use the Force to do your will.                                                                                                                                                                                                                                                                                                                                            |
-| FoR        | Force Resist  | Your resistance to the direct influence of the Force, despite your ability to sense or wield it.                                                                                                                                                                                                                                                                                           |
-| Luc        | Luck          | Some fellas are lucky and some ain’t.                                                                                                                                                                                                                                                                                                                                                      |
+| Stat Abbr. | Stat Name                   | Description                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dex        | Dexterity                   | Used for dodging, feats of acrobatics, and general quickness.                                                                                                                                                                                                                                                                                                                              |
+| Bls        | Blaster                     | Skill with a gun or a ship-mounted turret. Automatic skill of Blaster at 15 or greater.                                                                                                                                                                                                                                                                                                    |
+| Mel        | Melee                       | Skill with any type of physical weapon. Automatic skill of Melee type at 15 or greater.                                                                                                                                                                                                                                                                                                    |
+| Pil        | Piloting                    | Used for determining flying or driving ability. Automatic skill of Piloting at 15 or greater.                                                                                                                                                                                                                                                                                              |
+| Con        | [[#^0bcd06\|Constitution]]  | Poison and pain resistance, internal fortitude, and health.                                                                                                                                                                                                                                                                                                                                |
+| Str        | [[#^a43f34\|Strength]]      | 16 = +1 melee damage<br>17 = +2 melee damage<br>18 = +3 melee damage<br>19 = +4 melee damage                                                                                                                                                                                                                                                                                               |
+| Frt        | [[#^e5d2f8\|Fortitude]]     | HP, KO resistance, and stamina.                                                                                                                                                                                                                                                                                                                                                            |
+| Sen        | [[#^c21f3b\|Senses]]        | Used for determining if you heard that thermal detonator drop on the hangar bay floor.                                                                                                                                                                                                                                                                                                     |
+| Int        | Intelligence                | Quick and correct thinking ability. For every 2 points above 10 you get one additional language skill.                                                                                                                                                                                                                                                                                     |
+| Slc        | Slicing                     | Used for hacking, decoding, programming, and other forms of advanced computer usage. Automatic slicing-related skill (see Skills sheet for a list) at 15 or greater.                                                                                                                                                                                                                       |
+| Tec        | Tech                        | Knowledge and ability to use and repair the many high tech devices of the galaxy. Automatic skill (Repair or other specialized tech-related skill of your choice) at 15 or greater.                                                                                                                                                                                                        |
+| Chr        | Charisma                    | Determines your ability to lie, negotiate, and how well you speak other languages. Automatic charisma-related skill of your choice at 15 or greater.                                                                                                                                                                                                                                       |
+| FoS        | [[#^188a09\|Force Sense]]   | Determines you awareness of undulations, pulls and disturbances in the Force.<br>0 - 10 = You have almost no perception of it, even if you were trained.<br>11 - 13 = You are occasionally more intuitive in it than others.<br>14 = You can feel large tremors in the Force.<br>15 - 18 = You are sensitive to the ebb and flow of the Force. Jedi Knights and Masters are of this level. |
+| FoA        | [[#^12ff8b\|Force Ability]] | Your capacity to use the Force to do your will.                                                                                                                                                                                                                                                                                                                                            |
+| FoR        | [[#^38c90a\|Force Resist]]  | Your resistance to the direct influence of the Force, despite your ability to sense or wield it.                                                                                                                                                                                                                                                                                           |
+| Luc        | [[#^d63dae\|Luck]]          | Some fellas are lucky and some ain’t.                                                                                                                                                                                                                                                                                                                                                      |
 
+^f1e422
 #### Perks:
 
 If you have a 15 or above in any of the right-column stats, roll a 1d4 to determine which corresponding perk(s) you receive.
 
 ###### Constitution
 
-1. Lungs of Durasteel: -2 bonus to resist airborne contaminants and toxins
-    
-2. Strong Stomach: tolerate disgusting meals, -2 bonus to resist ingested contaminants and toxins
-    
-3. Acclimated: -2 bonus to resist the effects of the climate of your homeworld
-    
-4. Wide Awake: -2 bonus to remain conscious
+1. **Lungs of Durasteel**: -2 bonus to resist airborne contaminants and toxins
+2. **Strong Stomach**: tolerate disgusting meals, -2 bonus to resist ingested contaminants and toxins
+3. **Acclimated**: -2 bonus to resist the effects of the climate of your homeworld
+4. **Wide Awake**: -2 bonus to remain conscious
 ###### Strength
 
 1. Start with Swimming skill
-    
 2. Start with Climbing skill
-    
 3. Start with Athletics skill
-    
 4. Start with Acrobatics skill
 ###### Fortitude
 
-1. Thick-Blooded: some wounds close automatically, -2 bonus to staunch own wounds
-    
-2. Pain Tolerant: -2 bonus to resist pain
-    
-3. Sturdy: -2 bonus to resist concussive damage including from falls
-    
-4. Workhorse: can work longer without resting
+1. **Thick-Blooded**: some wounds close automatically, -2 bonus to staunch own wounds
+2. **Pain Tolerant**: -2 bonus to resist pain
+3. **Sturdy**: -2 bonus to resist concussive damage including from falls
+4. **Workhorse**: can work longer without resting
 ###### Senses
 
-1. Keen Eyes: -2 bonus to seeing subtle movement
-    
-2. Sensitive Hearing: -2 bonus to hearing subtle sounds
-    
-3. On-Guard: -2 bonus to notice when someone, including a droid, is behaving strangely
-    
-4. Metronomic Mind: can keep time in their own head
+1. **Keen Eyes**: -2 bonus to seeing subtle movement
+2. **Sensitive Hearing**: -2 bonus to hearing subtle sounds
+3. **On-Guard**: -2 bonus to notice when someone, including a droid, is behaving strangely
+4. **Metronomic Mind**: can keep time in their own head
 ###### Force Sense
 
-1. Sense Danger: roll before something dangerous is about to happen to get an instinctive feeling
-    
-2. Sense Emotions: roll to notice a sudden change in emotions or someone with strong emotions nearby
-    
-3. Sense Destiny: roll before a simple decision may have significant ramifications
-    
-4. Sense Force: automatically sense when force users are nearby
+1. **Sense Danger**: roll before something dangerous is about to happen to get an instinctive feeling
+2. **Sense Emotions**: roll to notice a sudden change in emotions or someone with strong emotions nearby
+3. **Sense Destiny**: roll before a simple decision may have significant ramifications
+4. **Sense Force**: automatically sense when force users are nearby
 ###### Force Ability
 
 1. Start with Move Object
-    
 2. Start with Read Mind
-    
 3. Start with Project Emotion
-    
 4. Start with Mind Speak
 ###### Force Resistance
 
-1. Blend in: -2 bonus to remaining hidden from other force users
-    
-2. Unshakable Mind: -2 bonus to resist mental/emotion force abilities
-    
-3. Unshakable Body: -2 bonus to resist physical force abilities
-    
-4. Force Deflection: when you see someone using the force on someone else, you can roll to disrupt or redirect their force ability as a reaction
+1. **Blend In**: -2 bonus to remaining hidden from other force users
+2. **Unshakable Mind**: -2 bonus to resist mental/emotion force abilities
+3. **Unshakable Body**: -2 bonus to resist physical force abilities
+4. **Force Deflection**: when you see someone using the force on someone else, you can roll to disrupt or redirect their force ability as a reaction
 ###### Luck
 
-1. Beauty -2 bonus to opposing sex
-    
-2. Nobility -2 bonus in official settings
-    
-3. Inheritance (bonus starting credits and small monthly stipend roll)
-    
-4. Beginner’s Luck; reduce the penalty to do something you’re not trained in
+1. **Beauty**: -2 bonus to opposing sex
+2. **Nobility**: -2 bonus in official settings
+3. **Inheritance**: bonus starting credits and small monthly stipend roll
+4. **Beginner’s Luck**: reduce the penalty to do something you’re not trained in
 
 #### Occupations
 
