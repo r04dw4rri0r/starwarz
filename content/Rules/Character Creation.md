@@ -44,7 +44,7 @@ Each character starts with 1 free contact. Additional contacts may be acquired t
 
 If you have a 15 or above in any of the right-column stats, roll a 1d4 to determine which corresponding perk(s) you receive.
 
-##### Constitution
+###### Constitution
 
 1. Lungs of Durasteel: -2 bonus to resist airborne contaminants and toxins
     
@@ -53,7 +53,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. Acclimated: -2 bonus to resist the effects of the climate of your homeworld
     
 4. Wide Awake: -2 bonus to remain conscious
-##### Strength
+###### Strength
 
 1. Start with Swimming skill
     
@@ -62,7 +62,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. Start with Athletics skill
     
 4. Start with Acrobatics skill
-##### Fortitude
+###### Fortitude
 
 1. Thick-Blooded: some wounds close automatically, -2 bonus to staunch own wounds
     
@@ -71,7 +71,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. Sturdy: -2 bonus to resist concussive damage including from falls
     
 4. Workhorse: can work longer without resting
-##### Senses
+###### Senses
 
 1. Keen Eyes: -2 bonus to seeing subtle movement
     
@@ -80,7 +80,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. On-Guard: -2 bonus to notice when someone, including a droid, is behaving strangely
     
 4. Metronomic Mind: can keep time in their own head
-##### Force Sense
+###### Force Sense
 
 1. Sense Danger: roll before something dangerous is about to happen to get an instinctive feeling
     
@@ -89,7 +89,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. Sense Destiny: roll before a simple decision may have significant ramifications
     
 4. Sense Force: automatically sense when force users are nearby
-##### Force Ability
+###### Force Ability
 
 1. Start with Move Object
     
@@ -98,7 +98,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. Start with Project Emotion
     
 4. Start with Mind Speak
-##### Force Resistance
+###### Force Resistance
 
 1. Blend in: -2 bonus to remaining hidden from other force users
     
@@ -107,7 +107,7 @@ If you have a 15 or above in any of the right-column stats, roll a 1d4 to determ
 3. Unshakable Body: -2 bonus to resist physical force abilities
     
 4. Force Deflection: when you see someone using the force on someone else, you can roll to disrupt or redirect their force ability as a reaction
-##### Luck
+###### Luck
 
 1. Beauty -2 bonus to opposing sex
     
