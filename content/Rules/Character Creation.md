@@ -11,7 +11,7 @@ The header stats are equal to the chosen number divided by three plus the racial
 
 #### Skills:
 
-Each character starts with 2 free skills. Refer to the Skills sheet for a list of common skills and rules.
+Each character starts with 2 free skills. Refer to the [[Skills]] sheet for a list of common skills and rules.
 
 For every 2 points of Intelligence above 10, you get one additional language skill.
 
